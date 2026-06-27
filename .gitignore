@@ -1,0 +1,10 @@
+venv/
+locust-env/
+__pycache__/
+*.pyc
+*.log
+*.tar
+.env
+*.pem
+.vscode/
+.idea/
