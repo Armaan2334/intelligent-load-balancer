@@ -21,7 +21,7 @@ This project demonstrates a cloud-native application deployed on AWS using Docke
 - Auto Scaling using HPA
   ![Auto Scaling using HPA](docs/p_hpa_output.png)
 - Real-Time Monitoring
-  ![Real-Time Monitoring](docs/p_system metrics grafana.png)
+  ![Real-Time Monitoring](docs/p_system_metrics_grafana.png)
 - Load Testing with Locust
   ![Load Testing with Locust](docs/p_locust_load_testing.png)
 - Self-Healing Pods
